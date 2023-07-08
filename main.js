@@ -56,7 +56,6 @@ console.log(findArray(['a', 'a', 'a', 'a', 'a'], [2, 4]));
 console.log(findArray([0, 1, 5, 2, 1, 8, 9, 1, 5], [1, 4, 7]));
 console.log(findArray([1, 2, 3, 4, 5], [4,2,0]));
 
-
 // KATA 6 
 // https://www.codewars.com/kata/62ad72443809a4006998218a/train/javascript
 function likeOrDislike(buttons) {
